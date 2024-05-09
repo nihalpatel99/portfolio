@@ -22,8 +22,11 @@ Welcome to my portfolio page where i have my projects. I am data analyst and now
 6. Group work on analysis of flight delays:
    Contributed to creation of pipelines required for training the models and also data exploration.
 
-7. Dubizzle Car Listings Analysis with Power BI:
+8. Dubizzle Car Listings Analysis with Power BI:
    Analyzed and presented trends and findings on listings of 7 emirates based on factors.
 
-8. Analysis Study on Amazon Arts and Crafts Dataset Project:
+9. Analysis Study on Amazon Arts and Crafts Dataset Project:
    Implemented various NLP techniques and tasks, visualized the trends and insights. Trained classifiers on various vectorization techniques.
+
+10. Traffic Jams in Middle East with Excel:
+    Exploration and Visualization on facts on traffic jams in Middle East major cities.
