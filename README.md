@@ -30,3 +30,6 @@ Welcome to my portfolio page where i have my projects. I am data analyst and now
 
 10. Traffic Jams in Middle East with Excel:
     Exploration and Visualization on facts on traffic jams in Middle East major cities.
+
+11. Analysis on IBM Employees Data with Power BI:
+    Performed visualization on employee's job satisfaction, salary hike, travel etc.
