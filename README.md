@@ -17,7 +17,7 @@ Welcome to my portfolio page where i have my projects. I am data analyst and now
    Analysis of Bag of words (BOW) technique which is TF-IDF on three classifiers.
 
 5. Twitch Dashboard in Tableau:
-   Presneted the insights and visualized using Tableau.
+   Presented the insights and visualized using Tableau.
 
 6. Group work on analysis of flight delays:
    Contributed to creation of pipelines required for training the models and also data exploration.
