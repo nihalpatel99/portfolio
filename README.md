@@ -33,3 +33,9 @@ Welcome to my portfolio page where i have my projects. I am data analyst and now
 
 11. Analysis on IBM Employees Data with Power BI:
     Performed visualization on employee's job satisfaction, salary hike, travel etc.
+
+12. ShadowExtreme GenAI App:
+    https://github.com/nihalpatel99/shadow-extreme
+
+13. WheelsAI:
+    https://github.com/nihalpatel99/wheels-ai
