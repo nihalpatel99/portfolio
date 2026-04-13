@@ -39,3 +39,15 @@ Welcome to my portfolio page where i have my projects. I am data analyst and now
 
 13. WheelsAI:
     https://github.com/nihalpatel99/wheels-ai
+
+14. RenaultBot:
+    https://github.com/nihalpatel99/RenaultBot-Project
+
+15. CardiologyRAG:
+    https://github.com/nihalpatel99/langgraph-rag-cardioilogy
+
+16. UAEVisaBot:
+    https://github.com/nihalpatel99/uae-visa-rag-langchain-v1
+
+17. Legacy Flight Planner:
+    https://github.com/nihalpatel99/legacy-flight-autogen
